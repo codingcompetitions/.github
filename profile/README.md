@@ -23,6 +23,12 @@
 
 ![As of 2024-11-03](../resources/images/uva.png "As of 2024-11-03")
 
+## Everybody Codes
+
++ [Everybody Codes 2024](https://everybody.codes/event/2024/quests) is solved using [Ruby](https://www.ruby-lang.org/en/).
+
+![As of 2024-11-18](../resources/images/ec-2024.png "As of 2024-11-18")
+
 ## Google
 
 + [coding-competitions-archive](https://github.com/codingcompetitions/coding-competitions-archive)
