@@ -17,6 +17,12 @@
 
 ![As of 2024-11-03](../resources/images/aoc.png "As of 2024-11-03")
 
+## Coding Quest
+
++ [Coding Quest 2024](https://github.com/codingcompetitions/CodingQuest-2024) is solved using [Ruby](https://www.ruby-lang.org/en/).
+
+![As of 2025-02-03](../resources/images/codingquest-2024.png "As of 2025-02-03")
+
 ## UVa Online Judge
 
 + [UVa Online Judge](https://github.com/codingcompetitions/UVa-online-judge) is solved using [Python](https://www.python.org/).
