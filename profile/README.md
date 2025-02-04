@@ -20,6 +20,7 @@
 ## Coding Quest
 
 + [Coding Quest 2024](https://github.com/codingcompetitions/CodingQuest-2024) is solved using [Ruby](https://www.ruby-lang.org/en/).
++ [Coding Quest 2023](https://github.com/codingcompetitions/CodingQuest-2023) is solved using [PHP](https://www.php.net/).
 
 ![As of 2025-02-03](../resources/images/codingquest-2024.png "As of 2025-02-03")
 
