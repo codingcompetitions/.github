@@ -1,0 +1,35 @@
+# repo                                                                   local-directory
+
+# github
+git@github.com:codingcompetitions/.github.git                            _github
+
+# Advent of Code (https://adventofcode.com/)
+git@github.com:codingcompetitions/AoC-data.git                           aoc-data
+git@github.com:codingcompetitions/AoC-2015.git                           aoc-2015
+git@github.com:codingcompetitions/AoC-2016.git                           aoc-2016
+git@github.com:codingcompetitions/AoC-2017.git                           aoc-2017
+git@github.com:codingcompetitions/AoC-2018.git                           aoc-2018
+git@github.com:codingcompetitions/AoC-2019.git                           aoc-2019
+git@github.com:codingcompetitions/AoC-2020.git                           aoc-2020
+git@github.com:codingcompetitions/AoC-2021.git                           aoc-2021
+git@github.com:codingcompetitions/AoC-2022.git                           aoc-2022
+git@github.com:codingcompetitions/AoC-2023.git                           aoc-2023
+git@github.com:codingcompetitions/AoC-2024.git                           aoc-2024
+
+# Advent of SQL (https://adventofsql.com/)
+git@github.com:codingcompetitions/AoSQL-data.git                         aosql-data
+git@github.com:codingcompetitions/AoSQL-2024.git                         aosql-2024
+
+# Coding Quest (https://codingquest.io/)
+git@github.com:codingcompetitions/CQ-data.git                            cq-data
+git@github.com:codingcompetitions/CQ-2023.git                            cq-2023
+git@github.com:codingcompetitions/CQ-2024.git                            cq-2024
+
+# Everybody Codes
+git@github.com:codingcompetitions/EC-data.git                            ec-data
+git@github.com:codingcompetitions/EC-2024.git                            ec-2024
+
+# Misc
+git@github.com:codingcompetitions/HoD.git                                hod
+#git@github.com:codingcompetitions/coding-competitions-archive.git        google-coding-competitions-archive
+git@github.com:codingcompetitions/UVa-online-judge.git                   uva-online
