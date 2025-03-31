@@ -29,6 +29,10 @@ git@github.com:codingcompetitions/CQ-2024.git                            cq-2024
 git@github.com:codingcompetitions/EC-data.git                            ec-data
 git@github.com:codingcompetitions/EC-2024.git                            ec-2024
 
+# Codyssi
+git@github.com:codingcompetitions/cod-data.git                           cod-data
+git@github.com:codingcompetitions/cod-2024.git                           cod-2024
+
 # Misc
 git@github.com:codingcompetitions/HoD.git                                hod
 #git@github.com:codingcompetitions/coding-competitions-archive.git        google-coding-competitions-archive
