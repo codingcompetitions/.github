@@ -14,15 +14,38 @@
 + [Advent of Code 2017](https://github.com/codingcompetitions/AoC-2017) is solved using [C](https://gcc.gnu.org/).
 + [Advent of Code 2016](https://github.com/codingcompetitions/AoC-2016) is solved using [Rust](https://www.rust-lang.org/).
 + [Advent of Code 2015](https://github.com/codingcompetitions/AoC-2015) is solved using [Python](https://www.python.org/).
++ [Advent of Code Data](https://github.com/codingcompetitions/AoC-data).
 
 ![As of 2024-11-03](../resources/images/aoc.png "As of 2024-11-03")
 
+## Advent Of SQL
+
++ [Advent of SQL 2024](https://github.com/codingcompetitions/AoSQL-2024) is solved using [PostsgreSQL](https://www.postgresql.org/).
++ [Advent of SQL Data](https://github.com/codingcompetitions/AoSQL-data).
+
+## Codyssi
+
++ [Codyssi 2024](https://github.com/codingcompetitions/cod-2024) is solved using [Racket](https://racket-lang.org/).
++ [Codyssi Data](https://github.com/codingcompetitions/cod-data). 
+
 ## Coding Quest
 
-+ [Coding Quest 2024](https://github.com/codingcompetitions/CodingQuest-2024) is solved using [Ruby](https://www.ruby-lang.org/en/).
-+ [Coding Quest 2023](https://github.com/codingcompetitions/CodingQuest-2023) is solved using [PHP](https://www.php.net/).
++ [Coding Quest 2024](https://github.com/codingcompetitions/CQ-2024) is solved using [Ruby](https://www.ruby-lang.org/en/).
++ [Coding Quest 2023](https://github.com/codingcompetitions/CQ-2023) is solved using [PHP](https://www.php.net/).
++ [Coding Quest Data](https://github.com/codingcompetitions/CQ-data).
 
 ![As of 2025-02-03](../resources/images/codingquest-2024.png "As of 2025-02-03")
+
+## Everybody Codes
+
++ [Everybody Codes 2024](https://github.com/codingcompetitions/EC-2024) is solved using [Ruby](https://www.ruby-lang.org/en/).
++ [Everybody Codes Data](https://github.com/codingcompetitions/EC-data).
+
+![As of 2024-11-18](../resources/images/ec-2024.png "As of 2024-11-18")
+
+## Hanukkah of Data
+
++ [Hanukkah Of Data](https://github.com/codingcompetitions/HoD) is solved using [SQLite](https://www.sqlite.org/).
 
 ## UVa Online Judge
 
@@ -30,12 +53,10 @@
 
 ![As of 2024-11-03](../resources/images/uva.png "As of 2024-11-03")
 
-## Everybody Codes
-
-+ [Everybody Codes 2024](https://everybody.codes/event/2024/quests) is solved using [Ruby](https://www.ruby-lang.org/en/).
-
-![As of 2024-11-18](../resources/images/ec-2024.png "As of 2024-11-18")
-
 ## Google
 
 + [coding-competitions-archive](https://github.com/codingcompetitions/coding-competitions-archive)
+
+## Coding Competitions
+
++ [Coding Competitions](https://github.com/codingcompetitions/.github)
