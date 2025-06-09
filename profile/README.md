@@ -38,6 +38,7 @@
 
 ## Everybody Codes
 
++ [Everybody Codes Stories](https://github.com/codingcompetitions/EC-Stories) is solved using [PHP](https://www.php.net/).
 + [Everybody Codes 2024](https://github.com/codingcompetitions/EC-2024) is solved using [Ruby](https://www.ruby-lang.org/en/).
 + [Everybody Codes Data](https://github.com/codingcompetitions/EC-data).
 

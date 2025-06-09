@@ -28,6 +28,7 @@ git@github.com:codingcompetitions/CQ-2024.git                            cq-2024
 # Everybody Codes
 git@github.com:codingcompetitions/EC-Stories.git                         ec-stories
 git@github.com:codingcompetitions/EC-data.git                            ec-data
+git@github.com:codingcompetitions/EC-Stories.git                         ec-stories
 git@github.com:codingcompetitions/EC-2024.git                            ec-2024
 
 # Codyssi
