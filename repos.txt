@@ -15,6 +15,7 @@ git@github.com:codingcompetitions/AoC-2021.git                           aoc-202
 git@github.com:codingcompetitions/AoC-2022.git                           aoc-2022
 git@github.com:codingcompetitions/AoC-2023.git                           aoc-2023
 git@github.com:codingcompetitions/AoC-2024.git                           aoc-2024
+git@github.com:codingcompetitions/AoC-2025.git                           aoc-2025
 
 # Advent of SQL (https://adventofsql.com/)
 git@github.com:codingcompetitions/AoSQL-data.git                         aosql-data

@@ -4,6 +4,7 @@
 
 [Advent Of Code](https://adventofcode.com/) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
 
++ [Advent of Code 2025](https://github.com/codingcompetitions/AoC-2025) is solved using [SBCL](http://www.sbcl.org/).
 + [Advent of Code 2024](https://github.com/codingcompetitions/AoC-2024) is solved using [Perl](https://www.perl.org/).
 + [Advent of Code 2023](https://github.com/codingcompetitions/AoC-2023) is solved using [Java](https://openjdk.org/projects/jdk/).
 + [Advent of Code 2022](https://github.com/codingcompetitions/AoC-2022) is solved using [Elixir](https://elixir-lang.org/).
