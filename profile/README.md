@@ -21,6 +21,7 @@
 
 ## Advent Of SQL
 
++ [Advent of SQL 2025](https://github.com/codingcompetitions/AoSQL-2025) is solved using [PostsgreSQL](https://www.postgresql.org/).
 + [Advent of SQL 2024](https://github.com/codingcompetitions/AoSQL-2024) is solved using [PostsgreSQL](https://www.postgresql.org/).
 + [Advent of SQL Data](https://github.com/codingcompetitions/AoSQL-data).
 

@@ -20,6 +20,7 @@ git@github.com:codingcompetitions/AoC-2025.git                           aoc-202
 # Advent of SQL (https://adventofsql.com/)
 git@github.com:codingcompetitions/AoSQL-data.git                         aosql-data
 git@github.com:codingcompetitions/AoSQL-2024.git                         aosql-2024
+git@github.com:codingcompetitions/AoSQL-2025.git                         aosql-2025
 
 # Coding Quest (https://codingquest.io/)
 git@github.com:codingcompetitions/CQ-data.git                            cq-data
